@@ -52,9 +52,9 @@
 	"menu": {
 		"ckkey": "97b6a7181e0bdbe69e692383e1071ba1",
 		"name": "思古解析",
-		"link": "http://www.sigujiexi.com",
+		"link": "https://www.sigujiexi.com",
 		"domain": "",
-		"version": "version:X2",
+		"version": "思古解析0.12",
 		"more":[]
 	},
 	"languagePath": "",
